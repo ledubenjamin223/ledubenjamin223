@@ -1,0 +1,4 @@
+- Here to explore ✨!
+- I'm starting my career as a software engineer :mortar_board:.
+- Currently working with C++.
+- Very interessted in web technologies :computer:.
